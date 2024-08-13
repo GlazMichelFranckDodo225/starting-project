@@ -2,9 +2,12 @@ import Post from "./components/Post";
 
 function App() {
   return (
-    <div>
+    <main>
       <Post />
-    </div>
+      <Post />
+      <Post />
+      <Post />
+    </main>
   )
 }
 
